@@ -2,7 +2,6 @@
 ## Group 3 - Andy Duly, Derek Liu, Jensen Aimery Medeiros, Deep Ashishkumar Shah, Alyssa Taylor Tran
 
 --- 
-<br/>
 
 ### **Description**
 ---
@@ -16,16 +15,12 @@ This application allows users to control LEDs as desired, including features lik
 
 No matter what action is done, feedback is provided in the terminal. This way, the user can create and view dynamic lighting effects. 
 
-<br/><br/>
-
 ### **Required Software**
 ---
 * MacOS
 * Visual Studio Code
 * C++ Compiler
 * QT
-
-<br/><br/>
 
 ### Step-By-Step Software Building Guide
 ---
